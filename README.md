@@ -41,3 +41,5 @@ gcc race.c -o car_race
 
 # Run the game engine
 ./car_race
+
+[Play live in browser - https://siddharth9234.github.io/car-race-game/ ]
